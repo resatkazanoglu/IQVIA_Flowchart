@@ -1,1 +1,827 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T11:04:48.003Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.9.9" etag="urYRh3msoidid9tlevtO" type="github"><diagram id="J0EAa_dv7JAT3HFp8Fnu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-18T11:05:55.176Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="evXdOqHglUl9iieKx2dw" version="13.9.9" type="github">
+  <diagram id="J0EAa_dv7JAT3HFp8Fnu" name="Page-1">
+    <mxGraphModel dx="2330" dy="1095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-2" target="Ca_LVxpnP2gil-1ZMDgw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-2" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Başla&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-4" target="Ca_LVxpnP2gil-1ZMDgw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-4" value="&lt;br&gt;Dosya Konumu Bilgisi&amp;nbsp;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-6" target="Ca_LVxpnP2gil-1ZMDgw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-6" value="main = ticket_main.csv" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-8" target="Ca_LVxpnP2gil-1ZMDgw-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-8" value="main&#39;de&amp;nbsp;net_tl,&amp;nbsp;&lt;br&gt;netbonus_tl,&amp;nbsp;total_tl,&amp;nbsp;&lt;br&gt;net_unit,&lt;br&gt;&amp;nbsp;netbonus_unit ve total_unit alanları hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="620" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="540" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="740" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-14" target="Ca_LVxpnP2gil-1ZMDgw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-14" value="&lt;span&gt;&amp;nbsp; inputmatrix kullanılarak&amp;nbsp;&lt;/span&gt;brandorder elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-16" target="Ca_LVxpnP2gil-1ZMDgw-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-16" value="&lt;span&gt;main&#39;e aggreate işlemi uygulanarak&lt;/span&gt;&lt;br&gt;&lt;span&gt;main_by_bname elde edilir.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1100" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-18" target="Ca_LVxpnP2gil-1ZMDgw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-18" value="pharmacy_segmentation_&lt;br&gt;input.xlsx dosyası okunarak inputmatrix, productgroups, measuretype,&amp;nbsp;Wtype, Xtype, Ytype bilgileri elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-20" target="Ca_LVxpnP2gil-1ZMDgw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-20" value="main kullanılarak&amp;nbsp;&lt;br&gt;main_datacontrol elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="760" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-22" target="Ca_LVxpnP2gil-1ZMDgw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-22" value="main_datacontrol&#39;de aggregate işlemi yapılarak&amp;nbsp;&lt;br&gt;main_datacontrol_brandsums elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="860" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-24" target="Ca_LVxpnP2gil-1ZMDgw-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-24" value="main_datacontrol_brandsums,&lt;br&gt;output/datacontrol_&lt;br&gt;sales_totals.csv olarak kaydedilir" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="980" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-26" target="Ca_LVxpnP2gil-1ZMDgw-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-26" value="&lt;span&gt;main&#39;e dcast işlemi uygulanarak&lt;/span&gt;&lt;br&gt;&lt;span&gt;main_by_phar_tl&amp;nbsp;elde edilir.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1200" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-28" target="Ca_LVxpnP2gil-1ZMDgw-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-28" value="&lt;span&gt;main&#39;e dcast işlemi uygulanarak&lt;/span&gt;&lt;br&gt;&lt;span&gt;main_by_phar_unit&amp;nbsp;elde edilir.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1300" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-30" target="Ca_LVxpnP2gil-1ZMDgw-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-30" value="main_by_phar_tl&#39;den&amp;nbsp;&lt;br&gt;groupsums_tl elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1400" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-32" target="Ca_LVxpnP2gil-1ZMDgw-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-32" value="groupsums_tl&#39;den&lt;br&gt;indices_tl, marketshares_tl, ranks_tl,&amp;nbsp;groups_tl,&amp;nbsp;avgsales_tl,&amp;nbsp;&lt;br&gt;deciles_tl,&amp;nbsp;percentiles_tl,&amp;nbsp;temp_tl elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1500" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-34" target="Ca_LVxpnP2gil-1ZMDgw-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-34" value="groupsums_unit&#39;ten&lt;br&gt;indices_unit,&amp;nbsp;marketshares_unit,&amp;nbsp; ranks_unit,&amp;nbsp;groups_unit,&amp;nbsp;&lt;br&gt;avgsales_unit,&amp;nbsp;deciles_unit,&amp;nbsp;&lt;br&gt;percentiles_unit,&amp;nbsp;temp_unit elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1620" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-36" target="Ca_LVxpnP2gil-1ZMDgw-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-36" value="inputmatrix&#39;den&amp;nbsp;client_prod_list,&amp;nbsp;&lt;br&gt;comp_prod_list,&amp;nbsp;all_prod_list,&amp;nbsp;&lt;br&gt;client_prod_w,&amp;nbsp;comp_prod_w,&amp;nbsp;&lt;br&gt;mrkt_prod_w,&amp;nbsp;mrkt_no elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1760" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-38" target="Ca_LVxpnP2gil-1ZMDgw-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-38" value="inputmatrix&#39;den&amp;nbsp;client_prod_list,&amp;nbsp;&lt;br&gt;comp_prod_list,&amp;nbsp;all_prod_list,&amp;nbsp;&lt;br&gt;client_prod_w,&amp;nbsp;comp_prod_w,&amp;nbsp;&lt;br&gt;mrkt_prod_w,&amp;nbsp;mrkt_no elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-40" target="Ca_LVxpnP2gil-1ZMDgw-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-40" value="mrkt_no kullanılarak&amp;nbsp;mrkt_list elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-42" target="Ca_LVxpnP2gil-1ZMDgw-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-42" value="main_by_phar_tl ve&amp;nbsp;main_by_phar_unit sıralanarak bunlardan&amp;nbsp;main_tl ve&amp;nbsp;main_unit elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-44" target="Ca_LVxpnP2gil-1ZMDgw-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-44" value="mrkt_no&#39;nun uzunluğu kadar satıra ve&amp;nbsp;mrkt_list uzunluğu kadar kolona sahip bir matris oluşturulur ve&amp;nbsp;&lt;br&gt;comp_prod_w_all&#39;a atanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="480" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-46" target="Ca_LVxpnP2gil-1ZMDgw-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-46" value="comp_prod_w_all&#39; dan&amp;nbsp;&lt;br&gt;mrkt_prod_w_all,&amp;nbsp;&lt;br&gt;client_prod_w_all,&amp;nbsp;&lt;br&gt;comp_prod_unit_all,&amp;nbsp;&lt;br&gt;mrkt_prod_unit_all,&amp;nbsp;&lt;br&gt;client_prod_unit_all elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="600" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-48" target="Ca_LVxpnP2gil-1ZMDgw-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-48" value="inputmatrix&#39;ten markets oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="740" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-50" target="Ca_LVxpnP2gil-1ZMDgw-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-50" value="mrkt_list ve markets bilgileri kullanılarak&amp;nbsp;comp_prod_w_all,&amp;nbsp;&lt;br&gt;mrkt_prod_w_all,&amp;nbsp;&lt;br&gt;client_prod_w_all,&amp;nbsp;&lt;br&gt;comp_prod_unit_all,&amp;nbsp;&lt;br&gt;mrkt_prod_unit_all,&amp;nbsp;&lt;br&gt;client_prod_unit_all hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="840" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-52" target="Ca_LVxpnP2gil-1ZMDgw-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-52" value="mrkt_list kullanılarak&amp;nbsp;&lt;br&gt;weighted_compprods_group_set,&amp;nbsp;&lt;br&gt;weighted_allprods_group_set gibi isim listeleri oluşturulur.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1000" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-54" target="Ca_LVxpnP2gil-1ZMDgw-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-54" value="main_tl, main_unit,&amp;nbsp;&lt;br&gt;comp_prod_w_all,&amp;nbsp;&lt;br&gt;mrkt_prod_w_all ve client_prod_w_all&amp;nbsp; bilgileri kullanılarak groupsums_tl,&amp;nbsp;groupsums_unit,&amp;nbsp;&lt;br&gt;indices_tl,&amp;nbsp;indices_unit,&amp;nbsp;&lt;br&gt;salesWeighted_client_tl,&amp;nbsp;&lt;br&gt;salesWeighted_client_unit&lt;br&gt;hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1120" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-56" target="Ca_LVxpnP2gil-1ZMDgw-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-56" value="groupsums_tl ve groupsums_unit bilgileri kullanılarak marketshares_tl,&amp;nbsp;&lt;br&gt;marketshares_unit hesaplanır" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1320" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-58" target="Ca_LVxpnP2gil-1ZMDgw-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-58" value="main_by_phar_tl ve &lt;br&gt;main_by_bname bilgileri kullanılarak&amp;nbsp;&lt;br&gt;nm1,&amp;nbsp;ranks_tl,&amp;nbsp;ranks_unit&lt;br&gt;hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1440" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-60" target="Ca_LVxpnP2gil-1ZMDgw-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-60" value="main_by_phar_tl ve main_by_bname bilgileri kullanılarak nm2,&amp;nbsp;groups_tl,&amp;nbsp;groups_unit&lt;br&gt;hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1560" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-62" target="Ca_LVxpnP2gil-1ZMDgw-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-62" value="main_by_phar_tl, main_by_bname,&amp;nbsp;groups_tl ve&amp;nbsp;groups_unit bilgileri kullanılarak nm3,&amp;nbsp;avgsales_tl,&amp;nbsp;avgsales_unit&lt;br&gt;hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1680" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-64" target="Ca_LVxpnP2gil-1ZMDgw-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-64" value="deciles_tl ve deciles_unit kullanılarak&amp;nbsp;decilesX_tl ve&amp;nbsp;decilesX_unit elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-68" target="Ca_LVxpnP2gil-1ZMDgw-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-66" value="Evet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ca_LVxpnP2gil-1ZMDgw-65">
+          <mxGeometry x="0.0914" y="-1" relative="1" as="geometry">
+            <mxPoint x="-2.07" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-67" value="Hayır" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-68" target="Ca_LVxpnP2gil-1ZMDgw-73">
+          <mxGeometry x="-0.5" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-68" value="Xtype[1] == 1" style="rhombus;whiteSpace=wrap;html=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-70" target="Ca_LVxpnP2gil-1ZMDgw-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="380" />
+              <mxPoint x="650" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-70" value="indices_tl,&amp;nbsp;indices_unit,&amp;nbsp;&lt;br&gt;total_client_index&lt;br&gt;kullanılarak&amp;nbsp;decilesX_tl ve&amp;nbsp;decilesX_unit güncellenir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-71" value="Evet" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-73" target="Ca_LVxpnP2gil-1ZMDgw-75">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-72" value="Hayır" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-73" target="Ca_LVxpnP2gil-1ZMDgw-77">
+          <mxGeometry x="-0.5" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-73" value="Xtype[1] == 2" style="rhombus;whiteSpace=wrap;html=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-75" target="Ca_LVxpnP2gil-1ZMDgw-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-75" value="marketshares_tl,&amp;nbsp;&lt;br&gt;marketshares_unit,&amp;nbsp;&lt;br&gt;total_client_index&lt;br&gt;kullanılarak&amp;nbsp;decilesX_tl ve&amp;nbsp;decilesX_unit güncellenir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="800" y="400" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-77" target="Ca_LVxpnP2gil-1ZMDgw-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-77" value="decilesX_tl$decileX ve&amp;nbsp;decilesX_unit$decileX değerleri ondalık dilimlere göre düzenlenir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-79" target="Ca_LVxpnP2gil-1ZMDgw-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-79" value="deciles_tl ve deciles_unit kullanılarak&amp;nbsp;decilesY_tl ve&amp;nbsp;decilesY_unit elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="640" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-80" value="Evet" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-83" target="Ca_LVxpnP2gil-1ZMDgw-85">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-83" target="Ca_LVxpnP2gil-1ZMDgw-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-82" value="Hayır" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ca_LVxpnP2gil-1ZMDgw-81">
+          <mxGeometry x="-0.1672" y="1" relative="1" as="geometry">
+            <mxPoint x="19" y="-6.55" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-83" value="Ytype[1] == 1" style="rhombus;whiteSpace=wrap;html=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="760" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-85" target="Ca_LVxpnP2gil-1ZMDgw-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-85" value="indices_tl, indices_unit ve total_mrkt_index&lt;br&gt;kullanılarak&amp;nbsp;decilesY_tl ve&amp;nbsp;decilesY_unit güncellenir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="800" y="760" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-89" target="Ca_LVxpnP2gil-1ZMDgw-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-87" value="Evet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ca_LVxpnP2gil-1ZMDgw-86">
+          <mxGeometry x="-0.1115" y="-1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-88" value="Hayır" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-89" target="Ca_LVxpnP2gil-1ZMDgw-93">
+          <mxGeometry x="-0.5" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-89" value="Ytype[1] == 2" style="rhombus;whiteSpace=wrap;html=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="880" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-91" target="Ca_LVxpnP2gil-1ZMDgw-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-91" value="indices_tl, indices_unit ve total_comp_index&lt;br&gt;kullanılarak&amp;nbsp;decilesY_tl ve&amp;nbsp;decilesY_unit güncellenir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="800" y="880" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-93" target="Ca_LVxpnP2gil-1ZMDgw-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-93" value="decilesY_tl$decileY ve&amp;nbsp;decilesY_unit$decileY değerleri ondalık dilimlere göre düzenlenir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1000" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-95" target="Ca_LVxpnP2gil-1ZMDgw-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-95" value="decilesX_tl,&amp;nbsp;decilesX_unit,&amp;nbsp;&lt;br&gt;decilesY_tl,&amp;nbsp;decilesY_unit için sıralama işlemleri yapılır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1120" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-97" target="Ca_LVxpnP2gil-1ZMDgw-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-97" value="decilesX_tl&#39;den&amp;nbsp;nm8x elde edilir ve&amp;nbsp;decilesX_tl,&amp;nbsp;decilesX_unit değerleri kullanılarak&amp;nbsp;decilesX_tl[nm8x] ve&amp;nbsp;decilesX_unit[nm8x] hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1240" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-99" target="Ca_LVxpnP2gil-1ZMDgw-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-99" value="decilesY_tl&#39;den&amp;nbsp;nm8y elde edilir ve&amp;nbsp;decilesY_tl,&amp;nbsp;decilesY_unit değerleri kullanılarak&amp;nbsp;decilesY_tl[nm8y] ve&amp;nbsp;decilesY_unit[nm8y] hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1380" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-101" target="Ca_LVxpnP2gil-1ZMDgw-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-101" value="decilesX_tl&#39;den&amp;nbsp;nm9x elde edilir ve&amp;nbsp;decilesX_tl,&amp;nbsp;decilesX_unit ve setcount değerleri kullanılarak&amp;nbsp;decilesX_tl[nm9x] ve&amp;nbsp;decilesX_unit[nm9x] hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1520" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-103" target="Ca_LVxpnP2gil-1ZMDgw-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="1710" />
+              <mxPoint x="1020" y="140" />
+              <mxPoint x="1150" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-103" value="decilesY_tl&#39;den&amp;nbsp;nm9y elde edilir ve&amp;nbsp;decilesY_tl,&amp;nbsp;decilesY_unit ve setcount değerleri kullanılarak&amp;nbsp;decilesY_tl[nm9y] ve&amp;nbsp;decilesY_unit[nm9y] hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1660" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-105" target="Ca_LVxpnP2gil-1ZMDgw-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-105" value="groupsums_tl$ph_dummycode kullanılarak&amp;nbsp;&lt;br&gt;ranks_aggr_tl,&amp;nbsp;groups_aggr_tl,&amp;nbsp;&lt;br&gt;avgsales_aggr_tl,&amp;nbsp;&lt;br&gt;ranks_aggr_unit,&amp;nbsp;&lt;br&gt;groups_aggr_unit,&amp;nbsp;&lt;br&gt;avgsales_aggr_unit oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="160" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-107" target="Ca_LVxpnP2gil-1ZMDgw-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-107" value="groupsums_tl&#39;den&amp;nbsp;nm10 elde edilir ve&amp;nbsp;groupsums_tl,&amp;nbsp;&lt;br&gt;groupsums_unit değerleri kullanılarak&amp;nbsp;ranks_aggr_tl[nm10] ve&amp;nbsp;ranks_aggr_unit[nm10] hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="320" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-109" target="Ca_LVxpnP2gil-1ZMDgw-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-109" value="groupsums_tl&#39;den&amp;nbsp;nm11 elde edilir ve&amp;nbsp;groupsums_tl, ranks_aggr_tl ve ranks_aggr_unit değerleri kullanılarak&amp;nbsp;groups_aggr_tl[nm11] ve&amp;nbsp;groups_aggr_unit[nm11] hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="460" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-111" target="Ca_LVxpnP2gil-1ZMDgw-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-111" value="&lt;span&gt;groupsums_tl&#39;den nm12&amp;nbsp;elde edilir ve&amp;nbsp;groupsums_tl, groups_aggr_tl,&amp;nbsp; groupsums_unit ve groups_aggr_unit değerleri kullanılarak avgsales_aggr_tl[nm12] ve avgsales_aggr_unit[&lt;/span&gt;nm12&lt;span&gt;] hesaplanır.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="620" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-113" target="Ca_LVxpnP2gil-1ZMDgw-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-113" value="&lt;span&gt;main_by_phar_tlden nm3&amp;nbsp;elde edilir.&amp;nbsp;&lt;/span&gt;main_by_phar_tl&#39;den&amp;nbsp;&lt;br&gt;percentiles_tl elde edilir.&amp;nbsp;main_by_bname ve&amp;nbsp;percentiles_tl kullanılarak&amp;nbsp;percentiles_tl[nm3] hesaplanır.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="800" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-115" target="Ca_LVxpnP2gil-1ZMDgw-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-115" value="main_by_phar_unitden&amp;nbsp;&lt;br&gt;percentiles_unit elde edilir.&amp;nbsp;main_by_bname ve&amp;nbsp;percentiles_unit kullanılarak&amp;nbsp;percentiles_unit[nm3] hesaplanır.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="960" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-117" target="Ca_LVxpnP2gil-1ZMDgw-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-117" value="main_by_phar_tl&#39;nin satır sayısı&amp;nbsp;pharmcount olarak alınır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1100" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-119" target="Ca_LVxpnP2gil-1ZMDgw-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-119" value="main_by_phar_unit&#39;den nm7 elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1220" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-121" target="Ca_LVxpnP2gil-1ZMDgw-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-121" value="concentration_curves_tl oluşturulur.&amp;nbsp;&lt;br&gt;concentration_curves_tl&#39;de&lt;br&gt;pharmcount ve data_points kullanılarak&amp;nbsp;no_of_pharmacies alanı hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1340" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-123" target="Ca_LVxpnP2gil-1ZMDgw-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-123" value="main_by_bname ve&amp;nbsp;main_by_phar_tl bilgileri kulanılarak&amp;nbsp;&lt;br&gt;concentration_curves_tl hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1480" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-125" target="Ca_LVxpnP2gil-1ZMDgw-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-125" value="concentration_curves_unit oluşturulur.&amp;nbsp;&lt;br&gt;concentration_curves_unit&#39;de&lt;br&gt;pharmcount ve data_points kullanılarak&amp;nbsp;no_of_pharmacies alanı hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1600" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-127" target="Ca_LVxpnP2gil-1ZMDgw-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-127" value="main_by_bname ve&amp;nbsp;main_by_phar_unit bilgileri kulanılarak&amp;nbsp;&lt;br&gt;concentration_curves_unit hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="160" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-129" target="Ca_LVxpnP2gil-1ZMDgw-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-129" value="main_by_phar_tl ve&amp;nbsp;decilesX_tl bilgileri kullanılarak&amp;nbsp;&lt;br&gt;sales_indices_deciles_tl elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="280" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-131" target="Ca_LVxpnP2gil-1ZMDgw-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-131" value="main_by_phar_unit ve&amp;nbsp;decilesX_unit bilgileri kullanılarak&amp;nbsp;&lt;br&gt;sales_indices_deciles_unit elde edilir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="400" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-136" target="Ca_LVxpnP2gil-1ZMDgw-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-133" value="Evet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ca_LVxpnP2gil-1ZMDgw-132">
+          <mxGeometry x="-0.3333" relative="1" as="geometry">
+            <mxPoint x="10" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-136" target="Ca_LVxpnP2gil-1ZMDgw-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-135" value="Hayır" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ca_LVxpnP2gil-1ZMDgw-134">
+          <mxGeometry x="-0.55" y="3" relative="1" as="geometry">
+            <mxPoint x="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-136" value="Ytype[1] == 1" style="rhombus;whiteSpace=wrap;html=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="760" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-138" target="Ca_LVxpnP2gil-1ZMDgw-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-138" value="sales_indices_deciles_tl ve&amp;nbsp;decilesY_tl bilgileri kullanılarak&amp;nbsp;&lt;br&gt;sales_indices_deciles_tl hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="520" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-140" target="Ca_LVxpnP2gil-1ZMDgw-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-140" value="&lt;span&gt;sales_indices_deciles_unit&amp;nbsp;ve decilesY_unit bilgileri kullanılarak&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;sales_indices_deciles_unit&lt;br&gt;&amp;nbsp;hesaplanır.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="640" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-142" value="sales_indices_deciles_tl ve&amp;nbsp;sales_indices_deciles_unit için&amp;nbsp;total_comp_index hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="760" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-146" target="Ca_LVxpnP2gil-1ZMDgw-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-144" value="Evet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ca_LVxpnP2gil-1ZMDgw-143">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-145" value="Hayır" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-146" target="Ca_LVxpnP2gil-1ZMDgw-150">
+          <mxGeometry x="-0.5" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-146" value="Ytype[1] == 2" style="rhombus;whiteSpace=wrap;html=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="880" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-148" target="Ca_LVxpnP2gil-1ZMDgw-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-148" value="sales_indices_deciles_tl ve&amp;nbsp;sales_indices_deciles_unit için&amp;nbsp;total_mrkt_index hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="880" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-150" target="Ca_LVxpnP2gil-1ZMDgw-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-150" value="sales_indices_deciles_tl ve&amp;nbsp;groupsums_tl bilgileri kullanılarak&amp;nbsp;&lt;br&gt;sales_indices_deciles_tl hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1000" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-152" target="Ca_LVxpnP2gil-1ZMDgw-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-152" value="sales_indices_deciles_unit ve&amp;nbsp;groupsums_unit bilgileri kullanılarak&amp;nbsp;&lt;br&gt;sales_indices_deciles_unit hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1120" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-154" target="Ca_LVxpnP2gil-1ZMDgw-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-154" value="sales_indices_deciles_tl&#39;de&amp;nbsp;&lt;br&gt;weighted_total_client ve&amp;nbsp;group_total_client_index bilgileri kullanılarak&amp;nbsp;&lt;br&gt;avgsales_by_clientindexgroups hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1240" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-156" target="Ca_LVxpnP2gil-1ZMDgw-161">
+          <mxGeometry x="-0.0105" y="-50" relative="1" as="geometry">
+            <mxPoint x="1550" y="1460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1780" y="1430" />
+              <mxPoint x="1780" y="140" />
+              <mxPoint x="1920" y="140" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-156" value="sales_indices_deciles_unit&#39;de&amp;nbsp;&lt;br&gt;weighted_total_client ve&amp;nbsp;group_total_client_index bilgileri kullanılarak&amp;nbsp;&lt;br&gt;avgsales_by_clientindexgroups hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1380" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-161" target="Ca_LVxpnP2gil-1ZMDgw-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-158" value="Evet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ca_LVxpnP2gil-1ZMDgw-157">
+          <mxGeometry x="-0.4333" y="4" relative="1" as="geometry">
+            <mxPoint x="13" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-161" target="Ca_LVxpnP2gil-1ZMDgw-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-160" value="Hayır" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ca_LVxpnP2gil-1ZMDgw-159">
+          <mxGeometry x="-0.2556" y="1" relative="1" as="geometry">
+            <mxPoint x="13" y="-47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-161" value="Ytype[1] == 1" style="rhombus;whiteSpace=wrap;html=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="160" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-163" target="Ca_LVxpnP2gil-1ZMDgw-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-163" value="sales_indices_deciles_tl&#39;de&amp;nbsp;&lt;br&gt;weighted_total_market ve&amp;nbsp;group_total_market_index bilgileri kullanılarak&amp;nbsp;&lt;br&gt;avgsales_by_marketindexgroups hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2077" y="160" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-165" target="Ca_LVxpnP2gil-1ZMDgw-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-165" value="sales_indices_deciles_unit&#39;te&amp;nbsp;&lt;br&gt;weighted_total_market ve&amp;nbsp;group_total_market_index bilgileri kullanılarak&amp;nbsp;&lt;br&gt;avgsales_by_marketindexgroups hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2077" y="300" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-170" target="Ca_LVxpnP2gil-1ZMDgw-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-167" value="Evet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ca_LVxpnP2gil-1ZMDgw-166">
+          <mxGeometry x="-0.3333" relative="1" as="geometry">
+            <mxPoint x="10" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-170" target="Ca_LVxpnP2gil-1ZMDgw-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-169" value="Hayır" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ca_LVxpnP2gil-1ZMDgw-168">
+          <mxGeometry x="-0.8111" y="3" relative="1" as="geometry">
+            <mxPoint x="17" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-170" value="Ytype[1] == 2" style="rhombus;whiteSpace=wrap;html=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="440" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-172" target="Ca_LVxpnP2gil-1ZMDgw-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-172" value="sales_indices_deciles_tl&#39;de&amp;nbsp;&lt;br&gt;weighted_total_competitor ve&amp;nbsp;group_total_comp_index bilgileri kullanılarak&amp;nbsp;&lt;br&gt;avgsales_by_competitorindexgroups hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2077" y="440" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-174" target="Ca_LVxpnP2gil-1ZMDgw-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-174" value="sales_indices_deciles_unit&#39;te&amp;nbsp;&lt;br&gt;weighted_total_competitor ve&amp;nbsp;group_total_comp_index bilgileri kullanılarak&amp;nbsp;&lt;br&gt;avgsales_by_competitorindexgroups hesaplanır." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2077" y="580" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-176" target="Ca_LVxpnP2gil-1ZMDgw-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-176" value="ranks_tl,&amp;nbsp;groups_tl ve&amp;nbsp;avgsales_tl bilgileri kullanılarak&amp;nbsp;&lt;br&gt;ranks_groups_avgsales_tl oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="720" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-178" target="Ca_LVxpnP2gil-1ZMDgw-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-178" value="ranks_unit,&amp;nbsp;groups_unit ve&amp;nbsp;avgsales_unit bilgileri kullanılarak&amp;nbsp;&lt;br&gt;ranks_groups_avgsales_unit oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="840" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-180" target="Ca_LVxpnP2gil-1ZMDgw-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-180" value="ranks_aggr_tl,&amp;nbsp;groups_aggr_tl ve&amp;nbsp;avgsales_aggr_tl bilgileri kullanılarak&amp;nbsp;&lt;br&gt;ranks_groups_avgsales_aggr_tl oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="960" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-182" target="Ca_LVxpnP2gil-1ZMDgw-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-182" value="ranks_aggr_unit,&amp;nbsp;groups_aggr_unit ve&amp;nbsp;avgsales_aggr_unit bilgileri kullanılarak&amp;nbsp;&lt;br&gt;ranks_groups_avgsales_aggr_unit oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1080" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-184" target="Ca_LVxpnP2gil-1ZMDgw-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-184" value="segmentation_tempX ve&amp;nbsp;segmentation_tempY oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1200" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-185" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-186" target="Ca_LVxpnP2gil-1ZMDgw-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-186" value="segmentation_tempX ve&amp;nbsp;segmentation_tempY bilgileri kullanılarak&amp;nbsp;segmentation_tl ve&amp;nbsp;segmentation_unit oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1320" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-188" target="Ca_LVxpnP2gil-1ZMDgw-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-188" value="sales_indices_deciles_tl&amp;nbsp;ve&amp;nbsp;&lt;br&gt;main_by_bname bilgileri kullanılarak&amp;nbsp;segmentation_tl oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1440" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-190" target="Ca_LVxpnP2gil-1ZMDgw-192">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2340" y="1600" />
+              <mxPoint x="2340" y="140" />
+              <mxPoint x="2490" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-190" value="sales_indices_deciles_unit&amp;nbsp;ve&amp;nbsp;&lt;br&gt;main_by_bname bilgileri kullanılarak&amp;nbsp;segmentation_unit oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1560" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-192" target="Ca_LVxpnP2gil-1ZMDgw-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-192" value="sales_indices_deciles_tl ve&amp;nbsp;sales_indices_deciles_unit bilgileri kullanılarak&amp;nbsp;&lt;br&gt;intersection_1000_tl, intersection_1000_unit,&amp;nbsp;&lt;br&gt;intersection_3000_tl ve intersection_3000_unit oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="160" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-194" target="Ca_LVxpnP2gil-1ZMDgw-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-194" value="sales_indices_deciles_tl ve&amp;nbsp;main_by_bname bilgileri kullanılarak&amp;nbsp;finalwb_tl oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="320" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-195" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-196" target="Ca_LVxpnP2gil-1ZMDgw-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-196" value="ranks_groups_avgsales_tl ve&amp;nbsp;main_by_bname bilgisi kullanılarak&amp;nbsp;finalwb_tl güncellenir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="440" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-198" target="Ca_LVxpnP2gil-1ZMDgw-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-198" value="sales_indices_deciles_unit ve&amp;nbsp;main_by_bname bilgileri kullanılarak&amp;nbsp;finalwb_unit oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="560" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-200" target="Ca_LVxpnP2gil-1ZMDgw-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-200" value="ranks_groups_avgsales_unit ve&amp;nbsp;main_by_bname bilgisi kullanılarak&amp;nbsp;finalwb_unit güncellenir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="680" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-201" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-202" target="Ca_LVxpnP2gil-1ZMDgw-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-202" value="sales_indices_deciles_tl ve&amp;nbsp;main_by_bname bilgileri kullanılarak&amp;nbsp;finalwb_client_tl oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="800" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-203" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-204" target="Ca_LVxpnP2gil-1ZMDgw-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-204" value="ranks_groups_avgsales_tl ve&amp;nbsp;main_by_bname bilgisi kullanılarak&amp;nbsp;finalwb_client_tl güncellenir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="920" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-206" target="Ca_LVxpnP2gil-1ZMDgw-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-206" value="sales_indices_deciles_unit ve&amp;nbsp;main_by_bname bilgileri kullanılarak&amp;nbsp;finalwb_client_unit oluşturulur." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="1040" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-208" target="Ca_LVxpnP2gil-1ZMDgw-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-208" value="ranks_groups_avgsales_unit ve&amp;nbsp;main_by_bname bilgisi kullanılarak&amp;nbsp;finalwb_client_unit güncellenir." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="1160" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-210" target="Ca_LVxpnP2gil-1ZMDgw-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-210" value="sales_indices_deciles_tl&amp;nbsp;&lt;br&gt;tl/tl_sales_indices_deciles.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="1280" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-211" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-212" target="Ca_LVxpnP2gil-1ZMDgw-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-212" value="sales_indices_deciles_unit&amp;nbsp;&lt;br&gt;unit/unit_sales_indices_deciles.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="1420" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-213" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-214" target="Ca_LVxpnP2gil-1ZMDgw-216">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2490" y="1680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-214" value="groupsums_tl&amp;nbsp;&lt;br&gt;tl/tl_aggregated_sales.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="1560" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-215" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-216" target="Ca_LVxpnP2gil-1ZMDgw-218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-216" value="groupsums_unit&amp;nbsp;&lt;br&gt;unit/unit_aggregated_sales.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="160" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-217" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-218" target="Ca_LVxpnP2gil-1ZMDgw-220">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-218" value="ranks_groups_avgsales_tl&amp;nbsp;&lt;br&gt;tl/tl_ranks_groups_avgsales_by_&lt;br&gt;products.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="300" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-220" target="Ca_LVxpnP2gil-1ZMDgw-222">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-220" value="ranks_groups_avgsales_unit&amp;nbsp;&lt;br&gt;unit/unit_ranks_groups_avgsales_by_&lt;br&gt;products.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="440" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-221" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-222" target="Ca_LVxpnP2gil-1ZMDgw-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-222" value="ranks_groups_avgsales_aggr_tl&amp;nbsp;&lt;br&gt;tl/tl_aggregated_ranks_groups_&lt;br&gt;avgsales.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="580" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-223" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-224" target="Ca_LVxpnP2gil-1ZMDgw-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-224" value="ranks_groups_avgsales_aggr_unit&amp;nbsp;&lt;br&gt;unit/unit_aggregated_ranks_groups_&lt;br&gt;avgsales.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="720" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-225" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-226" target="Ca_LVxpnP2gil-1ZMDgw-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-226" value="intersection_t1000_tl&amp;nbsp;&lt;br&gt;tl/tl_intersection_1000.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="860" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-227" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-228" target="Ca_LVxpnP2gil-1ZMDgw-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-228" value="intersection_t1000_unit&amp;nbsp;&lt;br&gt;unit/unit_intersection_1000.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="1000" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-229" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-230" target="Ca_LVxpnP2gil-1ZMDgw-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-230" value="intersection_t3000_tl&amp;nbsp;&lt;br&gt;tl/tl_intersection_3000.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="1140" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-231" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-232" target="Ca_LVxpnP2gil-1ZMDgw-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-232" value="intersection_t3000_unit&amp;nbsp;&lt;br&gt;unit/unit_intersection_3000.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="1280" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-234" target="Ca_LVxpnP2gil-1ZMDgw-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-234" value="concentration_curves_tl&amp;nbsp;&lt;br&gt;tl/tl_concentration_curves.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="1420" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-236" target="Ca_LVxpnP2gil-1ZMDgw-238">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-236" value="concentration_curves_unit&amp;nbsp;&lt;br&gt;unit/unit_concentration_curves.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="1560" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-238" target="Ca_LVxpnP2gil-1ZMDgw-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-238" value="segmentation_tl&amp;nbsp;&lt;br&gt;tl/tl_segmentation_pivottable.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="160" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-239" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-240" target="Ca_LVxpnP2gil-1ZMDgw-242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-240" value="segmentation_unit&amp;nbsp;&lt;br&gt;unit/unit_segmentation_pivottable.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="300" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-241" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-242" target="Ca_LVxpnP2gil-1ZMDgw-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-242" value="finalwb_tl&amp;nbsp;&lt;br&gt;tl/tl_finalworkbook_with_ranks.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="440" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-243" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-244" target="Ca_LVxpnP2gil-1ZMDgw-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-244" value="finalwb_unit&amp;nbsp;&lt;br&gt;unit/unit_finalworkbook_with_ranks.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="580" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-245" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-246" target="Ca_LVxpnP2gil-1ZMDgw-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-246" value="finalwb_client_tl&amp;nbsp;&lt;br&gt;tl/tl_finalworkbook_client_version.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="720" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-247" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ca_LVxpnP2gil-1ZMDgw-248" target="Ca_LVxpnP2gil-1ZMDgw-249">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-248" value="finalwb_client_unit&amp;nbsp;&lt;br&gt;unit/unit_finalworkbook_client_&lt;br&gt;version.csv&lt;br&gt;olarak kaydedilir." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="860" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca_LVxpnP2gil-1ZMDgw-249" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Bitir&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="1000" width="220" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
